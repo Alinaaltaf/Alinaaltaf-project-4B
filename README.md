@@ -1,7 +1,5 @@
 ## Deployed on
 
-Url: [http://bootcamp-project-4b-sajeel.surge.sh](http://bootcamp-project-4b-sajeel.surge.sh)
-
 ## Available Scripts
 
 In the project directory, you can run:
